@@ -1,1 +1,2 @@
 favorite-view:1.0
+favorite-view:1.0

@@ -1,2 +1,8 @@
-favorite-view:1.0
-favorite-view:1.0
+job-dsl:1.48
+git:2.5.3
+mask-passwords:2.9
+conditional-buildstep:1.3.5
+parameterized-trigger:2.32
+envinject:1.93.1
+workflow-cps:2.10
+groovy:1.30
